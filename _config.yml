@@ -4,6 +4,12 @@ description: Aasim
 # baseurl: "/particle" # the subpath of your site, e.g. /blog
 # url: "localhost:3000" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
+# Site settings
+description: Aasim - A Chaotic Website
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://localhost:3000" # the base hostname & protocol for your site
+
+
 # User settings
 username: Anon Developer
 user_description: Second-year Computer Science Undergraduate Student with a yearning for something more...
