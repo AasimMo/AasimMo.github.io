@@ -1,11 +1,11 @@
 # Site settings
-title: Aasim Mohammed - Bio
+title: Aasim Mohammed - About Me
 description: Aasim
 # baseurl: "/particle" # the subpath of your site, e.g. /blog
 # url: "localhost:3000" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 # Site settings
-description: Aasim Mohammed - Bio
+description: Aasim Mohammed - About Me
 baseurl: "/" # the subpath of your site, e.g. /blog/
 #url: "http://localhost:3000" # the base hostname & protocol for your site
 
